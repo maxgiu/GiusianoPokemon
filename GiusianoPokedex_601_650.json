@@ -1,0 +1,405 @@
+[
+	{
+		"numero": "0601",
+		"nome": "Klinklang",
+		"stadio_evolutivo": "Fase 2",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/601.png",
+		"tipo": ["Acciaio"],
+		"debolezze": ["Fuoco", "Lotta", "Terra"]
+	},
+	{
+		"numero": "0602",
+		"nome": "Tynamo",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/602.png",
+		"tipo": ["Elettro"],
+		"debolezze": ["Terra"]
+	},
+	{
+		"numero": "0603",
+		"nome": "Eelektrik",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/603.png",
+        "tipo": ["Elettro"],
+        "debolezze": ["Terra"]
+	},
+	{
+		"numero": "0604",
+		"nome": "Eelektross",
+		"stadio_evolutivo": "Fase 2",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/604.png",
+        "tipo": ["Elettro"],
+        "debolezze": ["Terra"]
+	},
+	{
+		"numero": "0605",
+		"nome": "Elgyem",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/605.png",
+		"tipo": ["psico"],
+		"debolezze": ["Spettro", "Buio", "Coleottero"]
+	},	
+	{
+		"numero": "0606",
+		"nome": "Beheeyem",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/606.png",
+		"tipo": ["psico"],
+		"debolezze": ["Spettro", "Buio", "Coleottero"]
+	},
+	{
+		"numero": "0607",
+		"nome": "Litwick",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/607.png",
+		"tipo": ["Spettro","Fuoco"],
+		"debolezze": ["Spettro", "Buio","Terra","Acqua","Roccia"]
+	},
+	{
+		"numero": "0608",
+		"nome": "Lampent",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/608.png",
+		"tipo": ["Spettro","Fuoco"],
+		"debolezze": ["Spettro", "Buio","Terra","Acqua","Roccia"]
+	},
+	{
+		"numero": "0609",
+		"nome": "Chandelure",
+		"stadio_evolutivo": "Fase 2",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/609.png",
+		"tipo": ["Spettro","Fuoco"],
+		"debolezze": ["Spettro", "Buio","Terra","Acqua","Roccia"]
+	},
+	{
+		"numero": "0610",
+		"nome": "Axew",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png",
+		"tipo": ["Drago"],
+		"debolezze": ["Folletto","Ghiaccio","Drago"]
+	},
+	{
+		"numero": "0611",
+		"nome": "Fraxure",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/611.png",
+		"tipo": ["Drago"],
+		"debolezze": ["Folletto","Ghiaccio","Drago"]
+	},
+	{
+		"numero": "0612",
+		"nome": "Haxorus",
+		"stadio_evolutivo": "Fase 2",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+		"tipo": ["Drago"],
+		"debolezze": ["Folletto","Ghiaccio","Drago"]
+	},
+    {
+		"numero": "0613",
+		"nome": "Cubchoo",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/613.png",
+		"tipo": ["Ghiaccio"],
+		"debolezze": ["Fuoco","Acciaio","Lotta","Roccia"]
+	},
+    {
+		"numero": "0614",
+		"nome": "Beartic ",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png",
+		"tipo": ["Ghiaccio"],
+		"debolezze": ["Fuoco","Acciaio","Lotta","Roccia"]
+	},
+    {
+		"numero": "0615",
+		"nome": "Cryogonal",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png",
+		"tipo": ["Ghiaccio"],
+		"debolezze": ["Fuoco","Acciaio","Lotta","Roccia"]
+	},
+    {
+		"numero": "0616",
+		"nome": "Shelmet ",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/616.png",
+		"tipo": ["Coleottero"],
+		"debolezze": ["Fuoco","Volante","Roccia"]
+	},
+    {
+		"numero": "0617",
+		"nome": "Accelgor",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/617.png",
+		"tipo": ["Coleottero"],
+		"debolezze": ["Fuoco","Volante","Roccia"]
+	},
+    {
+		"numero": "0618",
+		"nome": "Stunfisk",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/618.png",
+		"tipo": ["Terra","Elettro"],
+		"debolezze": ["Acqua","Erba","Ghiaccio","Terra"]
+	},
+    {
+		"numero": "0619",
+		"nome": "Mienfoo ",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/619.png",
+		"tipo": ["Lotta"],
+		"debolezze": ["Psico","Volante","Folletto"]
+	},
+    {
+		"numero": "0620",
+		"nome": "Mienshao ",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/620.png",
+		"tipo": ["Lotta"],
+		"debolezze": ["Psico","Volante","Folletto"]
+	},
+    {
+		"numero": "0621",
+		"nome": "Druddigon",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/621.png",
+		"tipo": ["Drago"],
+		"debolezze": ["Folletto","Ghiaccio","Drago"]
+	},
+    {
+		"numero": "0622",
+		"nome": "Golett",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/622.png",
+		"tipo": ["Terra","Spettro"],
+		"debolezze": ["Acqua","Spettro","Erba","Buio","Ghiaccio"]
+	},
+    {
+		"numero": "0623",
+		"nome": "Golurk",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/623.png",
+		"tipo": ["Terra","Spettro"],
+		"debolezze": ["Acqua","Spettro","Erba","Buio","Ghiaccio"]
+	},
+    {
+		"numero": "0624",
+		"nome": "Pawniard ",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/624.png",
+		"tipo": ["Buio","Acciaio"],
+		"debolezze": ["Fuoco","Lotta","Terra"]
+	},
+    {
+		"numero": "0625",
+		"nome": "Bisharp",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png",
+		"tipo": ["Buio","Acciaio"],
+		"debolezze": ["Fuoco","Lotta","Terra"]
+	},
+    {
+		"numero": "0626",
+		"nome": "Bouffalant",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/626.png",
+		"tipo": ["Normale"],
+		"debolezze": ["Lotta"]
+	},
+    {
+		"numero": "0627",
+		"nome": "Rufflet ",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/627.png",
+		"tipo": ["Normale","Volante"],
+		"debolezze": ["Elettro","Ghiaccio","Roccia"]
+	},
+    {
+		"numero": "0628",
+		"nome": "Braviary",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png",
+		"tipo": ["Normale","Volante"],
+		"debolezze": ["Elettro","Ghiaccio","Roccia"]
+	},
+    {
+		"numero": "0629",
+		"nome": "Vullaby ",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/629.png",
+		"tipo": ["Buio","Volante"],
+		"debolezze": ["Folletto","Elettro","Ghiaccio","Roccia"]
+	},
+    {
+		"numero": "0630",
+		"nome": "Mandibuzz",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/630.png",
+		"tipo": ["Buio","Volante"],
+		"debolezze": ["Folletto","Elettro","Ghiaccio","Roccia"]
+	},
+    {
+		"numero": "0631",
+		"nome": "Heatmor",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/631.png",
+		"tipo": ["Fuoco"],
+		"debolezze": ["Acqua","Terra","Roccia"]
+	},
+    {
+		"numero": "0632",
+		"nome": "Durant",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/632.png",
+		"tipo": ["Coleottero","Acciaio"],
+		"debolezze": ["Fuoco"]
+	},
+    {
+		"numero": "0633",
+		"nome": "Deino",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/633.png",
+		"tipo": ["Buio","Drago"],
+		"debolezze": ["Folletto","Lotta","Coleottero","Ghiaccio","Drago"]
+	},
+    {
+		"numero": "0634",
+		"nome": "Zweilous",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/634.png",
+		"tipo": ["Buio","Drago"],
+		"debolezze": ["Folletto","Lotta","Coleottero","Ghiaccio","Drago"]
+	},
+    {
+		"numero": "0635",
+		"nome": "Hydreigon",
+		"stadio_evolutivo": "Fase 2",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/635.png",
+		"tipo": ["Buio","Drago"],
+		"debolezze": ["Folletto","Lotta","Coleottero","Ghiaccio","Drago"]
+	},
+    {
+		"numero": "0636",
+		"nome": "Larvesta",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/636.png",
+		"tipo": ["Coleottero","Fuoco"],
+		"debolezze": ["Acqua","Volante","Roccia"]
+	},
+    {
+		"numero": "0637",
+		"nome": "Volcarona",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png",
+		"tipo": ["Coleottero","Fuoco"],
+		"debolezze": ["Acqua","Volante","Roccia"]
+	},
+    {
+		"numero": "0638",
+		"nome": "Cobalion",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/638.png",
+		"tipo": ["Acciaio","Lotta"],
+		"debolezze": ["Fuoco","Lotta","Terra"]
+	},
+    {
+		"numero": "0639",
+		"nome": "Terrakion",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/639.png",
+		"tipo": ["Roccia","Lotta"],
+		"debolezze": ["Acciaio","Psico","Lotta","Acqua","Folletto","Erba","Terra"]
+	},
+    {
+		"numero": "0640",
+		"nome": "Virizion",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/640.png",
+		"tipo": ["Erba","Lotta"],
+		"debolezze": ["Fuoco","Psico","Volante","Ghiaccio","Veleno","Folletto"]
+	},
+    {
+		"numero": "0641",
+		"nome": "Tornadus",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png",
+		"tipo": ["Volante"],
+		"debolezze": ["Elettro","Ghiaccio","Roccia"]
+	},
+    {
+		"numero": "0642",
+		"nome": "Thundurus",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/642.png",
+		"tipo": ["Elettro","Volante"],
+		"debolezze": ["Ghiaccio","Roccia"]
+	},
+    {
+		"numero": "0643",
+		"nome": "Reshiram",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/643.png",
+		"tipo": ["Drago","Fuoco"],
+		"debolezze": ["Terra","Roccia","Drago"]
+	},
+    {
+		"numero": "0644",
+		"nome": "Zekrom",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png",
+		"tipo": ["Drago","Elettro"],
+		"debolezze": ["Folletto","Drago","Ghiaccio","Terra"]
+	},
+    {
+		"numero": "0645",
+		"nome": "Landorus",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/645.png",
+		"tipo": ["Terra","Volante"],
+		"debolezze": ["Acqua","Ghiaccio"]
+	},
+    {
+		"numero": "0646",
+		"nome": "Kyurem",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/646.png",
+		"tipo": ["Drago","Ghiaccio"],
+		"debolezze": ["Acciaio","Folletto","Roccia","Lotta","Drago"]
+	},
+    {
+		"numero": "0647",
+		"nome": "Keldeo",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/647.png",
+		"tipo": ["Acqua","Lotta"],
+		"debolezze": ["Folletto","Erba","Volante","Psico","Elettro"]
+	},
+    {
+		"numero": "0648",
+		"nome": "Meloetta",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/648.png",
+		"tipo": ["Normale","psico"],
+		"debolezze": ["Buio","Coleottero"]
+	},
+    {
+		"numero": "0649",
+		"nome": "Genesect",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/649.png",
+		"tipo": ["Coleottero","Acciaio"],
+		"debolezze": ["Fuoco"]
+	},
+    {
+		"numero": "0650",
+		"nome": "Chespin",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png",
+		"tipo": ["Erba"],
+		"debolezze": ["Fuoco","Volante","Ghiaccio","Veleno","Coleottero"]
+	}
+]
+
+
+
