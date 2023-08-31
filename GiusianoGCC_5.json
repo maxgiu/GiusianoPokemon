@@ -155,7 +155,7 @@
 		"nome": "Attacco a Sorpresa del Team Rocket",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://media.pokemoncentral.it/wiki/a/a2/Arriva_il_Team_Rocket%21TR.jpg",
+		"img_url": "https://wiki.pokemoncentral.it/File:Alla_Maniera_del_Capo.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -715,7 +715,7 @@
 		"nome": "Attacco a Sorpresa del Team Rocket",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://media.pokemoncentral.it/wiki/a/a2/Arriva_il_Team_Rocket%21TR.jpg",
+		"img_url": "https://wiki.pokemoncentral.it/File:Alla_Maniera_del_Capo.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -745,7 +745,7 @@
 		"nome": "Scavatrappole",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://media.pokemoncentral.it/wiki/b/bc/Challenge2.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/a6/Scavatrappole.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
