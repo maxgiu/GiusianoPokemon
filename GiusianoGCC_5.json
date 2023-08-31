@@ -205,7 +205,7 @@
 		"nome": "Dark Charizard",
 		"numero": "0006",
 		"stadio_evolutivo": "Fase 2",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkCharizardTR.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/5/5f/DarkCharizardTR.jpg",
 		"abilita": ["Aiutofuoco","Solarpotere"],
 		"mosse": []
 	},
@@ -215,7 +215,7 @@
 		"nome": "Dark Dragonite",
 		"numero": "0149",
 		"stadio_evolutivo": "Fase 2",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkDragoniteTeamRocket5.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/9/91/DarkDragoniteTeamRocket5.jpg",
 		"abilita": ["Forza Interiore","Multisquame"],
 		"mosse": []
 	},
@@ -225,7 +225,7 @@
 		"nome": "Dark Dugtrio",
 		"numero": "0051",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkDugtrioTeamRocket23.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/e/ea/DarkDugtrioTeamRocket23.jpg",
 		"abilita": ["Sabbiavelo","Trappoarena","Silicoforza"],
 		"mosse": []
 	},
@@ -235,7 +235,7 @@
 		"nome": "Dark Golbat",
 		"numero": "0042",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkGolbatTeamRocket7.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/2/22/DarkGolbatTeamRocket7.jpg",
 		"abilita": ["Forza Interiore","Intrapasso"],
 		"mosse": []
 	},
@@ -245,7 +245,7 @@
 		"nome": "Dark Gyarados",
 		"numero": "0130",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkGyaradosTeamRocket25.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/ac/DarkGyaradosTeamRocket25.jpg",
 		"abilita": ["Prepotenza","Prepotenza"],
 		"mosse": []
 	},
@@ -255,7 +255,7 @@
 		"nome": "Dark Hypno",
 		"numero": "0097",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkHypnoTeamRocket9.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/c/cb/DarkHypnoTeamRocket9.jpg",
 		"abilita": ["Insonnia","Premonizione","Forza Interiore"],
 		"mosse": []
 	},
@@ -265,7 +265,7 @@
 		"nome": "Dark Machamp",
 		"numero": "0068",
 		"stadio_evolutivo": "Fase 2",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkMachampTeamRocket27.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/7/7c/DarkMachampTeamRocket27.jpg",
 		"abilita": ["Dentistretti","Nullodifesa","Cuordeciso"],
 		"mosse": []
 	},
@@ -275,7 +275,7 @@
 		"nome": "Dark Magneton",
 		"numero": "0083",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkMagnetonTeamRocket11.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/2/2d/DarkMagnetonTeamRocket11.jpg",
 		"abilita": ["Magnetismo","Vigore","Ponderazione"],
 		"mosse": []
 	},
@@ -285,7 +285,7 @@
 		"nome": "Dark Slowbro",
 		"numero": "0080",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkSlowbroTeamRocket29.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/a8/DarkSlowbroTeamRocket29.jpg",
 		"abilita": ["Indifferenza","Mente Locale","Rigenergia"],
 		"mosse": []
 	},
@@ -295,7 +295,7 @@
 		"nome": "Dark Vileplume",
 		"numero": "0045",
 		"stadio_evolutivo": "Fase 2",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkVileplumeTeamRocket13.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/b/ba/DarkVileplumeTeamRocket13.jpg",
 		"abilita": ["Clorofilla","Spargispora"],
 		"mosse": []
 	},
@@ -305,7 +305,7 @@
 		"nome": "Dark Weezing",
 		"numero": "0110",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:WeezingTeamRocket31.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/c/c2/WeezingTeamRocket31.jpg",
 		"abilita": ["Levitazione","Gas Reagente","Tanfo"],
 		"mosse": []
 	},
@@ -315,7 +315,7 @@
 		"nome": "Dark Charmeleon",
 		"numero": "0005",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkCharmeleonTeamRocket32.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/6/65/DarkCharmeleonTeamRocket32.jpg",
 		"abilita": ["Aiutofuoco","Solarpotere"],
 		"mosse": []
 	},
@@ -325,7 +325,7 @@
 		"nome": "Dark Dragonair",
 		"numero": "0148",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkDragonairTeamRocket33.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/4/48/DarkDragonairTeamRocket33.jpg",
 		"abilita": ["Muta","Pelledura"],
 		"mosse": []
 	},
@@ -335,7 +335,7 @@
 		"nome": "Dark Electrode",
 		"numero": "0101",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkElectrodeTeamRocket34.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/e/e8/DarkElectrodeTeamRocket34.jpg",
 		"abilita": ["Antisuono","Statico","Scoppio"],
 		"mosse": []
 	},
@@ -345,7 +345,7 @@
 		"nome": "Dark Flareon",
 		"numero": "0136",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkFlareonTeamRocket35.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/2/25/DarkFlareonTeamRocket35.jpg",
 		"abilita": ["Fuocardore","Dentistretti"],
 		"mosse": []
 	},
@@ -355,7 +355,7 @@
 		"nome": "Dark Gloom ",
 		"numero": "0044",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkGloomTeamRocket36.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/a2/DarkGloomTeamRocket36.jpg",
 		"abilita": ["Clorofilla","Tanfo"],
 		"mosse": []
 	},
