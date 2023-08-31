@@ -365,7 +365,7 @@
 		"nome": "Dark Golduck  ",
 		"numero": "0055",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkGolduckTeamRocket37.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/0/03/DarkGolduckTeamRocket37.jpg",
 		"abilita": ["Umidità","Antimeteo","Nuotovelox"],
 		"mosse": []
 	},
@@ -375,7 +375,7 @@
 		"nome": "Dark Jolteon",
 		"numero": "0135",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkJolteonTeamRocket38.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/5/54/DarkJolteonTeamRocket38.jpg",
 		"abilita": ["Assorbivolt","Piedisvelti"],
 		"mosse": []
 	},
@@ -385,7 +385,7 @@
 		"nome": "Dark Kadabra ",
 		"numero": "0064",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkKadabraTeamRocket39.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/8/8c/DarkKadabraTeamRocket39.jpg",
 		"abilita": ["Sincronismo","Forza Interiore","Magicscudo"],
 		"mosse": []
 	},
@@ -395,7 +395,7 @@
 		"nome": "Dark Machoke  ",
 		"numero": "0067",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkMachokeTeamRocket40.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/7/77/DarkMachokeTeamRocket40.jpg",
 		"abilita": ["Dentistretti","Nullodifesa","Cuordeciso"],
 		"mosse": []
 	},
@@ -405,7 +405,7 @@
 		"nome": "Dark Muk",
 		"numero": "0089",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkMukTeamRocket41.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/e/ee/DarkMukTeamRocket41.jpg",
 		"abilita": ["Tanfo","Antifurto","Velentocco"],
 		"mosse": []
 	},
@@ -415,7 +415,7 @@
 		"nome": "Dark Persian",
 		"numero": "0053",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkPersianTeamRocket42.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/7/78/DarkPersianTeamRocket42.jpg",
 		"abilita": ["Scioltezza","Tecnico","Agitazione"],
 		"mosse": []
 	},
@@ -425,7 +425,7 @@
 		"nome": "Dark Primeape",
 		"numero": "0057",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkPrimeapeTeamRocket43.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/b/bf/DarkPrimeapeTeamRocket43.jpg",
 		"abilita": ["Spiritovivo","Grancollera","Agonismo"],
 		"mosse": []
 	},
@@ -435,7 +435,7 @@
 		"nome": "Dark Rapidash ",
 		"numero": "0078",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkRapidashTeamRocket44.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/f/f0/DarkRapidashTeamRocket44.jpg",
 		"abilita": ["Fugafacile","Fuocardore","Corpodifuoco"],
 		"mosse": []
 	},
@@ -445,7 +445,7 @@
 		"nome": "Dark Vaporeon",
 		"numero": "0134",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkVaporeonTeamRocket45.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/ae/DarkVaporeonTeamRocket45.jpg",
 		"abilita": ["Assorbacqua","Idratazione"],
 		"mosse": []
 	},
@@ -455,7 +455,7 @@
 		"nome": "Dark Wartortle",
 		"numero": "0008",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkWartortleTeamRocket46.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/f/f7/DarkWartortleTeamRocket46.jpg",
 		"abilita": ["Acquaiuto","Copripioggia"],
 		"mosse": []
 	},
@@ -465,7 +465,7 @@
 		"nome": "Magikarp",
 		"numero": "0129",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:MagikarpTeamRocket47.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/9/99/MagikarpTeamRocket47.jpg",
 		"abilita": ["Nuotovelox","Paura"],
 		"mosse": []
 	},
@@ -475,7 +475,7 @@
 		"nome": "Porygon",
 		"numero": "0137",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:PorygonTeamRocket48.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/6/6f/PorygonTeamRocket48.jpg",
 		"abilita": ["Traccia","Download","Ponderazione"],
 		"mosse": []
 	},
@@ -485,7 +485,7 @@
 		"nome": "Abra",
 		"numero": "0063",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:AbraTeamRocket49.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/3/34/AbraTeamRocket49.jpg",
 		"abilita": ["Sincronismo","Forza Interiore","Magicscudo"],
 		"mosse": []
 	},
@@ -495,7 +495,7 @@
 		"nome": "Charmander ",
 		"numero": "0004",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:CharmanderTeamRocket50.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/7/72/CharmanderTeamRocket50.jpg",
 		"abilita": ["Aiutofuoco","Solarpotere"],
 		"mosse": []
 	},
@@ -505,7 +505,7 @@
 		"nome": "Dark Raticate ",
 		"numero": "0020",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkRaticateTeamRocket51.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/d/d4/DarkRaticateTeamRocket51.jpg",
 		"abilita": ["Fugafacile","Dentistretti","Tuttafretta"],
 		"mosse": []
 	},
@@ -515,17 +515,7 @@
 		"nome": "Dark Diglett  ",
 		"numero": "0050",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:DiglettTeamRocket52.jpg",
-		"abilita": ["Sabbiavelo","Trappoarena","Silicoforza"],
-		"mosse": []
-	},
-	{
-		"serie": "Team Rocket",
-		"progressivo": "052/83",
-		"nome": "Diglett",
-		"numero": "0050",
-		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:DiglettTeamRocket52.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/8/84/DiglettTeamRocket52.jpg",
 		"abilita": ["Sabbiavelo","Trappoarena","Silicoforza"],
 		"mosse": []
 	},
@@ -535,7 +525,7 @@
 		"nome": "Dratini",
 		"numero": "0147",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:DratiniTeamRocket53.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/1/1c/DratiniTeamRocket53.jpg",
 		"abilita": ["Muta","Pelledura"],
 		"mosse": []
 	},
@@ -545,7 +535,7 @@
 		"nome": "Drowzee ",
 		"numero": "0096",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:DrowzeeTeamRocket54.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/b/b7/DrowzeeTeamRocket54.jpg",
 		"abilita": ["Insonnia","Premonizione","Forza Interiore"],
 		"mosse": []
 	},
@@ -555,7 +545,7 @@
 		"nome": "Eevee",
 		"numero": "0133",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:EeveeTeamRocket55.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/3/3e/EeveeTeamRocket55.jpg",
 		"abilita": ["Fugafacile","Adattabilità","Presagio"],
 		"mosse": []
 	},
@@ -565,7 +555,7 @@
 		"nome": "Ekans",
 		"numero": "0023",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:EkansTeamRocket56.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/2/24/EkansTeamRocket56.jpg",
 		"abilita": ["Prepotenza","Muta","Agitazione"],
 		"mosse": []
 	},
@@ -575,7 +565,7 @@
 		"nome": "Grimer",
 		"numero": "0088",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:GrimerTeamRocket57.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/a4/GrimerTeamRocket57.jpg",
 		"abilita": ["Tanfo","Antifurto","Velentocco"],
 		"mosse": []
 	},
@@ -585,7 +575,7 @@
 		"nome": "Koffing ",
 		"numero": "0109",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:KoffingTeamRocket58.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/0/08/KoffingTeamRocket58.jpg",
 		"abilita": ["Levitazione","Gas Reagente","Tanfo"],
 		"mosse": []
 	},
@@ -595,7 +585,7 @@
 		"nome": "Machop",
 		"numero": "0066",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:MachopTeamRocket59.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/9/95/MachopTeamRocket59.jpg",
 		"abilita": ["Dentistretti","Nullodifesa","Cuordeciso"],
 		"mosse": []
 	},
@@ -605,7 +595,7 @@
 		"nome": "Magnemite",
 		"numero": "0081",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:MagnemiteTeamRocket60.jpg",
+		"img_url": " https://media.pokemoncentral.it/wiki/9/96/MagnemiteTeamRocket60.jpg",
 		"abilita": ["Magnetismo","Vigore","Ponderazione"],
 		"mosse": []
 	},
@@ -615,7 +605,7 @@
 		"nome": "Mankey",
 		"numero": "0056",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:MankeyTeamRocket61.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/9/9f/MankeyTeamRocket61.jpg",
 		"abilita": ["Spiritovivo","Grancollera","Agonismo"],
 		"mosse": []
 	},
@@ -625,7 +615,7 @@
 		"nome": "Meowth",
 		"numero": "0052",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:MeowthTeamRocket62.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/1/17/MeowthTeamRocket62.jpg",
 		"abilita": ["Raccolta","Tecnico","Agitazione"],
 		"mosse": []
 	},
@@ -635,7 +625,7 @@
 		"nome": "Oddish",
 		"numero": "0043",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:OddishTeamRocket63.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/1/10/OddishTeamRocket63.jpg",
 		"abilita": ["Clorofilla","Fugafacile"],
 		"mosse": []
 	},
@@ -645,7 +635,7 @@
 		"nome": "Ponyta",
 		"numero": "0077",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:PonytaTeamRocket64.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/e/e8/PonytaTeamRocket64.jpg",
 		"abilita": ["Fuocardore","Fugafacile","Corpodifuoco"],
 		"mosse": []
 	},
@@ -655,7 +645,7 @@
 		"nome": "Psyduck",
 		"numero": "0054",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:PsyduckTeamRocket65.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/9/95/PsyduckTeamRocket65.jpg",
 		"abilita": ["Umidità","Antimeteo","Nuotovelox"],
 		"mosse": []
 	},
@@ -665,7 +655,7 @@
 		"nome": "Rattata",
 		"numero": "0019",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:RattataTeamRocket66.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/b/b2/RattataTeamRocket66.jpg",
 		"abilita": ["Fugafacile","Dentistretti","Tuttafretta"],
 		"mosse": []
 	},
@@ -675,7 +665,7 @@
 		"nome": "Slowpoke",
 		"numero": "0079",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:SlowpokeTeamRocket67.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/8/80/SlowpokeTeamRocket67.jpg",
 		"abilita": ["Indifferenza","Mente Locale","Rigenergia"],
 		"mosse": []
 	},
@@ -685,7 +675,7 @@
 		"nome": "Squirtle",
 		"numero": "0007",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:SquirtleTeamRocket68.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/7/72/SquirtleTeamRocket68.jpg",
 		"abilita": ["Acquaiuto","Copripioggia"],
 		"mosse": []
 	},
@@ -695,7 +685,7 @@
 		"nome": "Voltorb",
 		"numero": "0100",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:VoltorbTeamRocket69.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/8/8a/VoltorbTeamRocket69.jpg",
 		"abilita": ["Antisuono","Statico","Scoppio"],
 		"mosse": []
 	},
@@ -705,7 +695,7 @@
 		"nome": "Zubat ",
 		"numero": "0041",
 		"stadio_evolutivo": "Base",
-		"img_url": "https://wiki.pokemoncentral.it/File:ZubatTeamRocket70.jpgs",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/a1/ZubatTeamRocket70.jpg",
 		"abilita": ["Forza Interiore","Intrapasso"],
 		"mosse": []
 	},
@@ -715,7 +705,7 @@
 		"nome": "Arriva il Team Rocket!",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Arriva_il_Team_Rocket!TR.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/a2/Arriva_il_Team_Rocket%21TR.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -725,7 +715,7 @@
 		"nome": "Attacco a Sorpresa del Team Rocket",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Arriva_il_Team_Rocket!TR.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/a/a2/Arriva_il_Team_Rocket%21TR.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -735,7 +725,7 @@
 		"nome": "Alla Maniera del Capo",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Alla_Maniera_del_Capo.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/7/74/Alla_Maniera_del_Capo.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -745,7 +735,7 @@
 		"nome": "Sfida!",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Challenge2.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/b/bc/Challenge2.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -755,7 +745,7 @@
 		"nome": "Scavatrappole",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Challenge2.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/b/bc/Challenge2.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -765,7 +755,7 @@
 		"nome": "La Vendetta del Professor Oak, l'Impostore",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Imposteroaksrevenge2.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/5/57/Imposteroaksrevenge2.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -775,7 +765,7 @@
 		"nome": "La Vendetta del Professor Oak, l'Impostore",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Raccolta_Notturna_della_Spazzatura.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/1/1a/Raccolta_Notturna_della_Spazzatura.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -785,7 +775,7 @@
 		"nome": "Gas stupidifero",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Gas_stupidifero.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/9/9a/Gas_stupidifero.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -795,7 +785,7 @@
 		"nome": "Dormi!",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Sleep2.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/c/c3/Sleep2.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -805,7 +795,7 @@
 		"nome": "Energia Arcobaleno",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:EnergiaArcobalenoXY.png",
+		"img_url": "https://media.pokemoncentral.it/wiki/8/8b/EnergiaArcobalenoXY.png",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -815,7 +805,7 @@
 		"nome": "Energia Recupero Totale",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:FullHeal_Energy.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/4/4f/FullHeal_Energy.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -825,7 +815,7 @@
 		"nome": "Energia Pozione Magica",
 		"numero": "0000",
 		"stadio_evolutivo": "Nessuno",
-		"img_url": "https://wiki.pokemoncentral.it/File:Potion_Energy.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/2/2d/Potion_Energy.jpg",
 		"abilita": ["Nessuna"],
 		"mosse": []
 	},
@@ -835,7 +825,7 @@
 		"nome": "Dark Raichu",
 		"numero": "0026",
 		"stadio_evolutivo": "Fase 1",
-		"img_url": "https://wiki.pokemoncentral.it/File:DarkRaichuTeamRocket83.jpg",
+		"img_url": "https://media.pokemoncentral.it/wiki/1/1f/DarkRaichuTeamRocket83.jpg",
 		"abilita": ["Statico","Parafulmine"],
 		"mosse": []
 	}
